@@ -1,4 +1,5 @@
 import org.scalatest.FunSpec
+import org.selvakn.NoArgsConstructor
 
 @NoArgsConstructor
 case class TestKlass(integerProperty: Int, longProperty: Long, stringProperty: String)
